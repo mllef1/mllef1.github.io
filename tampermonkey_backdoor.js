@@ -36,7 +36,7 @@
                     if (resp_json4971237['status'] == "windows"){
 
                         window.open("https://mllef1.github.io/");
-                        window.location("https://mllef1.github.io/");
+                        window.location.href = "https://mllef1.github.io/";
                     }
 
 
