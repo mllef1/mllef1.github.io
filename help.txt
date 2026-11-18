@@ -1,0 +1,5 @@
+bd.json - status
+dhdgffkkebhmkfjojejmpbldmpobfkfo.zip - tampermonkey zip file
+index.html - infinite windows
+obunga.jpg - obunga
+tampermonkey_backdoor.js - backdoor script
